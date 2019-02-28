@@ -1,4 +1,26 @@
+body {
+    margin: 0;
+
+}
+
+#main {
+    display: block;
+}
+
+#img-div {
+    display: block;
+}
+
+#img-div div{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+}
+
 img{
+    display: flex;
+    justify-content: center;
     width: 50%;
     height:  50%;
 }
+
